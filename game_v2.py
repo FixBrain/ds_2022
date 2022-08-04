@@ -15,16 +15,20 @@ def random_predict(number: int = 1) -> int:
         int: Число попыток
     """
     count = 0
-    st, fn = 0, 100
+    # variables for storage begin and end of find range
+    begin, end = 0, 100
     while True:
         count += 1
-        predict_number = (st+fn) // 2
+        # finding middle of find range
+        predict_number = (begin + end) // 2
         if number == predict_number:
             break # выход из цикла, если угадали
         elif predict_number > number:
-            fn = predict_number - 1 
+            # if number less then make range [begin; predict_number - 1]
+            end = predict_number - 1 
         else:
-            st = predict_number + 1
+            # if number more then make range [predict_number + 1; end]
+            begin = predict_number + 1
     return count
 
 
