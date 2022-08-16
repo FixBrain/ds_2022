@@ -1,0 +1,263 @@
+alley Al
+aly Al
+acres Ac
+annex Anx
+arcade Arc
+autoroute Aut
+avenue Av
+ave Av
+bay Ba
+bayou Byu
+beach Be
+bch Be
+bend Bn
+bnd Bn
+bluff Blf
+bluffs Blf
+blfs Blf
+bottom Btm
+boulevard Bv
+blvd Bv
+branch Br
+bridge Brg
+brook Brk
+brooks Brk
+brks Brk
+burg Bg
+burgs Bg
+bgs Bg
+bypass Byp
+bu-pass Byp
+byway Byway
+camp Cp
+campus Campus
+canyon Cyn
+cape Ca
+cpe Ca
+carre Car
+carrefour Carref
+castle Cs
+causeway Cswy
+centre Ce
+centres Ce
+ctr Ce
+ctrs Ce
+cercle Cercle
+chare Chare
+chase Chase
+chemin Ch
+circle Cl
+circles Cl
+cir Cl
+cirs Cl
+circuit Circt
+cliff Clf
+cliffs Clf
+clfs Clf
+close Close
+club Clb
+common Cm
+commons Cm
+cmn Cm
+cmns Cm
+concession Conc
+corner Cor
+corners Cor
+crnrs Cor
+cors Cor
+cote Cote
+cour Cour
+cours Cour
+course Crse
+court Co
+courts Co
+crt Co
+ct Co
+cts Co
+cove Cv
+coves Cv
+cvs Cv
+creek Crk
+crescent Cr
+cres Cr
+crest Ct
+crst Ct
+Crest	 	CRST	CT
+Croissant	CROIS		 
+Cross	 		CX
+Crossing	CROSS	XING	XS
+Crossroads   Crossroad		XRD   XRDS	 
+Cul-de-sac	CDS		 
+Curve		CURV	 
+Dale	DALE	DL	 
+Dam		DM	 
+Dell	DELL		
+Diversion	DIVERS		DI
+Divide		DV	 
+Downs	DOWNS		DO
+Drive	DR	DR	DR
+Echangeur	ECH		 
+End	END		EN
+Esplanade	ESPL		 
+Estates   Estate	ESTATE	ESTS   EST	ES
+Expressway	EXPY	EXPY	 
+Extension   Extensions	EXTEN	EXT   EXTS	 
+Fall		FALL	 
+Falls		FLS	
+Farm	FARM		 
+Ferry		FRY	 
+Field   Fields	FIELD	FLD   FLDS	 
+Flat   Flats		FLT of FLTS	 
+Ford   Fords		FRD   FRDS	 
+Forest	FOREST	FRST	 
+Forge   Forges		FRG   FRGS	 
+Fork   Forks		FRK   FRKS	 
+Fort		FT	 
+Freeway	FWY	FWY	FR
+Front	FRONT		 
+Gardens   Garden	GDNS	GDNS   GDN	GD
+Gate	GATE		GA   GT
+Gateway	 	GTWY	GW
+Glade	GLADE		 
+Glen   Glens	GLEN	GLN   GLNS	GL	 
+Green   Greens	GREEN   GREENS	GRN   GRNS	GR
+Grounds	GRNDS		 
+Grove   Groves	GROVE	GRV   GRVS	GV
+Hall	 		HL
+Harbour   Harbours	HARBR	HBR   HBRS	HB
+Haven	 	HVN	HA
+Heath	HEATH		HE
+Heights	HTS	HTS	HT
+Highlands	HGHLDS		 
+Highway	HWY	HWY	HI
+Hill   Hills	HILL	HL   HLS	HL
+Hollow	HOLLOW	HOLW	HO
+Ile	ILE		 
+Impasse	IMP		 
+Inlet	INLET	INLT	IN
+Island   Islands	ISLAND	IS   ISS	IS
+Isle		ISLE	 
+Junction   Junctions		JCT   JCTS	 
+Keep	 		KE
+Key   Keys	KEY	KY   KYS	KY
+Knoll   Knolls	KNOLL	KNL   KNLS	KN
+Lake   Lakes		LK   LKS	LK
+Land		LAND	 
+Landing	LANDNG	LNDG	LD
+Lane	LANE	LN	LN
+Light   Lights		LGT   LGTS	 
+Limits	LMTS		 
+Line	LINE		 
+Ligne			 
+Link	LINK		LI
+Loaf		LF	 
+Lock   Locks		LCK   LCKS	 
+Lodge		LDG	 
+Lookout	LKOUT		 
+Loop	LOOP	LOOP	LO
+Mall	MALL	MALL	MA
+Manor   Manors	MANOR	MNR   MNRS	MR
+Maze	MAZE		MZ
+Meadow   Meadows	MEADOW	MDW   MDWS	MD
+Mews	MEWS	MEWS	ME
+Mill   Mills		ML   MLS	
+Mission		MSN	
+MontEe	MONTEE		 
+Moor	MOOR		 
+Motorway		MTWY	
+Mount	MOUNT	MT	MT
+Mountain   Mountains	MTN	MTN   MTNS	 
+Neck		NCK	
+Nene		NENE 
+Oaks	 		OA
+Orchard	ORCH	ORCH	 
+Oval		OVAL	
+Overpass		OPAS	
+Parade	PARADE		PR
+Park   Parc	PK   PARC	PARK	PA
+Parkway	PKY	PKWY	PK
+Pass   Passage	PASS	PASS   PSGE	PS
+Path	PATH	PATH	PH
+Pathway	PTWAY		 
+Pike		PIKE	
+Pine   Pines	PINES	PINE   PNES	 
+Place	PL   PLACE	PL	PL
+Plain   Plains		PLN   PLNS	
+Plateau	PLAT		 
+Plaza	PLAZA	PLZ	PZ
+Point   Pointe	PT   POINTE	PT	PT
+Pond	 		PD
+Port	PORT	PRT	 
+Prairie		PR	
+Private	PVT		 
+Promenade	PROM		PM
+Quai	QUAI		 
+Quary	 		QU
+Quay	QUAY		QY
+Radial		RADL	
+Ramp	RAMP	RAMP	 
+Ranch	 	RNCH	RA
+Rang	RANG		 
+Range	RG		 
+Rapid   Rapids		RPD   RPDS	
+Reach			
+Rest		RST	
+Ridge   Ridges	RIDGE	RDG   RDGS	RG
+Rise	RISE		RI
+River		RIV	
+Road	RD	RD	RD
+Rond-point	RDPT		 
+Route	RTE	RTE	 
+Row	ROW	ROW	RO
+Rue	RUE	RUE	 
+Ruelle	RLE		 
+Run	RUN	RUN	RU
+Sentier	SENT		 
+Shoal   Shoals		SHL   SHLS	
+Shores   Shore	 	SHR   SHRS	SH
+Skyway		SKWY	
+Springs   Spring	 	SPG   SPGS	SP
+Spur		SPUR	
+Square   Squares	SQ   SQS	SQ   SQS	SQ
+Station	STA   STN	STA	
+Stravenue		STRA	
+Stream		STRM	
+Street	ST	ST	ST
+Streets		STS	
+Stroll			
+Subdivision	SUBDIV		 
+Summit   Summits	 	SMT	SU
+Terrace   Terrasse	TERR   TSSE	TER	TC
+Thicket	THICK		 
+Throughway		TRWY	
+Tour			
+Towers	TOWERS		 
+Townline	TLINE		 
+Trace		TRCE	
+Track		TRAK	
+Trafficway		TRFY	
+Trail	TRAIL	TRL	TR
+Tailer		TRLR	
+Tunnel		TUNL	
+Turnabout	TRNABT		 
+Turnpike		TPKE	
+Two	 		TW
+Underpass		UPAS	
+Union   Unions		UN UNS	
+Vale	VALE		VA
+Valley   Valleys		VLY VLYS	
+Via   Viaduct	VIA	VIA	 
+View   Views	VIEW	VW   VWS	VW
+Village   Villages	VILLGE		VG
+Villa   Villas	VILLA   VILLAS	VLG   VLGS	VI
+Ville		VL	
+Vista	VISTA	VIS	VS
+Voie	VOIE		 
+Walk   Walkway	WALK	WALK	WK
+Wall		WALL	
+Way   Ways	WAY	WAY   WAYS	WY
+Well		WL	
+Wells		WLS	
+Wharf	WHARF		 
+Wood   Woods	WOOD   WOODS		WO
+Wynd	WYND		WD
